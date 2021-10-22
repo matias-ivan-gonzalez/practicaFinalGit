@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hola a todos!! 
 Fue un placer tarbajar juntos
 =======
@@ -16,3 +17,5 @@ Maggy lo modifico
 voy a romper este archivo
 >>>>>>> a2988a470118e4707fe3578ef7a5604615ffdde2
 >>>>>>> fcfc86f148bb7ce6acac3de361414aec2bcfe563
+=======
+>>>>>>> 8948bd95e3bcf3731e1c3a244b4366768fc4758e
