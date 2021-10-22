@@ -1,3 +1,7 @@
+
 Hola mundoo
 
 Juan David Ortiz
+=======
+voy a romper este archivo
+>>>>>>> a2988a470118e4707fe3578ef7a5604615ffdde2
