@@ -1,2 +1,18 @@
+<<<<<<< HEAD
 Hola a todos!! 
 Fue un placer tarbajar juntos
+=======
+<<<<<<< HEAD
+
+Hola mundoo
+
+Juan David Ortiz
+=======
+<<<<<<< HEAD
+Hola mundo, hola a todos!!
+Maggy lo modifico
+>>>>>>> 07360a81ab93d14b9fc49e1c5c0349b843df7eab
+=======
+voy a romper este archivo
+>>>>>>> a2988a470118e4707fe3578ef7a5604615ffdde2
+>>>>>>> fcfc86f148bb7ce6acac3de361414aec2bcfe563
